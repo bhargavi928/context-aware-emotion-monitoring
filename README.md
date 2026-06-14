@@ -1,2 +1,41 @@
-# context-aware-emotion-monitoring
-Emotion Monitoring using EfficientNet-B0 and Temporal Analysis
+# Context-Aware Emotion Monitoring Using Temporal Analysis
+
+## Overview
+
+This project focuses on emotion recognition using deep learning and temporal analysis techniques. The system analyzes facial expressions and predicts emotional states using EfficientNet-B0.
+
+## Model
+
+* EfficientNet-B0
+* Deep Learning Based Emotion Classification
+
+## Datasets
+
+* FER2013
+* Additional Emotion Dataset
+
+## Features
+
+* Facial Emotion Detection
+* Temporal Analysis
+* Dashboard Visualization
+* Real-Time Emotion Prediction
+
+## Technologies Used
+
+* Python
+* TensorFlow
+* Keras
+* OpenCV
+* NumPy
+* Pandas
+
+## Project Structure
+
+* train_efficient.py : Model Training
+* emotion_detection.py : Emotion Prediction
+* dashboard.py : Dashboard Visualization
+
+## Author
+
+Bhargavi Gujja
