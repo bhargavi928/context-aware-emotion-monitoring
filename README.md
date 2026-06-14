@@ -8,7 +8,9 @@ This project focuses on emotion recognition using deep learning and temporal ana
 
 * EfficientNet-B0
 * Deep Learning Based Emotion Classification
+## Model File
 
+The trained model file (.h5) is not included in this repository due to file size limitations. The model can be regenerated using train_efficient.py.
 ## Datasets
 
 * FER2013
