@@ -41,3 +41,6 @@ The trained model file (.h5) is not included in this repository due to file size
 ## Author
 
 Gujja Bhargavi 
+## Project Output
+
+![Prediction Output](screenshots/prediction_output.jpeg)
